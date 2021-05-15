@@ -1,2 +1,2 @@
-# tweets-viewer
-display embedded tweets from tweet URL 
+# Tweets-viewer
+Display embedded tweets from tweet URL 
